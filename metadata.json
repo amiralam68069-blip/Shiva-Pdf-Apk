@@ -1,0 +1,6 @@
+{
+  "name": "SHIVA PDF",
+  "description": "Official Android application for SHIVA PDF - Free & Premium educational notes, PDFs, quizzes, and study material.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

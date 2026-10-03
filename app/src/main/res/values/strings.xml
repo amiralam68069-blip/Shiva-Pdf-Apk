@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SHIVA PDF</string>
+    <string name="website_base_url">https://sivapdf.free.je</string>
+    <string name="website_home_url">https://sivapdf.free.je/index.php</string>
+</resources>
